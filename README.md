@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**StephenMiichael/stephenmiichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stephen Michael Apolinário
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **Dataclick**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, seriados e filmes no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo:
+ <br/>
+[![📨](https://img.shields.io/badge/-StephenMiichael-blue?logo=microsoft%20outlook)](mailto:stephenmiichael@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-StephenMiichael-blue?logo=Linkedin)](https://www.linkedin.com/in/stephen1721/)
